@@ -253,19 +253,19 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 
 
-#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title=",CETV频道",CETV-1
+#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="CETV频道",CETV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/main.m3u8
-#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title=",CETV频道",CETV-2
+#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="CETV频道",CETV-2
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361367/main.m3u8
-#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title=",CETV频道",CETV-4
+#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="CETV频道",CETV-4
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361368/main.m3u8
 
 
-#EXTINF:-1 tvg-name="CHC-动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title=",CHC频道",CHC-动作电影
+#EXTINF:-1 tvg-name="CHC-动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="CHC频道",CHC-动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8
-#EXTINF:-1 tvg-name="CHC-家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title=",CHC频道",CHC-家庭影院
+#EXTINF:-1 tvg-name="CHC-家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="CHC频道",CHC-家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?
-#EXTINF:-1 tvg-name="CHC-影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title=",CHC频道",CHC-影迷电影
+#EXTINF:-1 tvg-name="CHC-影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="CHC频道",CHC-影迷电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448841/main.m3u8
 
 
